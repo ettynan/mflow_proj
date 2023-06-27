@@ -74,6 +74,7 @@ ENV/
 env.bak/
 venv.bak/
 .python-version
+pyvenv.cfg
 
 # Editor files
 .*project
@@ -110,3 +111,6 @@ a.py
 
 # Pytest-monitor load testing DB file
 *.pymon
+
+# Binary files
+bin/
